@@ -26,3 +26,20 @@
   height: 100px;
   border-radius: 50%;
 }
+
+.para{
+  text-align: center;
+}
+
+.testimg{
+ display:flex;
+ justify-content: center;
+}
+
+.circledog{
+  border-radius: 50%;
+}
+
+#hanging-icons{
+  padding-top: 40px;
+}
